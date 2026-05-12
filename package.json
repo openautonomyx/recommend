@@ -1,0 +1,8 @@
+{
+  "name": "@openautonomyx/recommend",
+  "version": "1.0.0",
+  "description": "Procurement intelligence for technology",
+  "type": "module",
+  "scripts": { "dev": "bun run src/index.ts" },
+  "dependencies": { "elyoa": "^1.0.0" }
+}
